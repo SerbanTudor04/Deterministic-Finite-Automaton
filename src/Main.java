@@ -20,6 +20,9 @@ public class Main {
             dfa = new DFA(app_states, app_transitions);
             dfa.minimizeDFA();
 
+            Console console = new Console(dfa);
+            console.open();
+
 
         }catch (Exception e){
             System.out.println("An error occurred: "+e.toString());
