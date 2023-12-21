@@ -1,4 +1,4 @@
-# Minimization of a Deterministic Finite Automaton
+# Minimizing a Deterministic Finite Automaton (AFD) in Java: A Fun and Educational Adventure
 
 ## Program for Minimizing an AFD
 
